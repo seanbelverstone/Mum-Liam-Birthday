@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    align-content: center;
+    background-image: url(../Mum-Liam-Birthday/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+img {
+    width: 80%;
+    height: auto;
+}
+
+p {
+    margin-top: 20px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+#main {
+    font-size: 100%;
+    font-weight: bolder;
+}
